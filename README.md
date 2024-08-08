@@ -7,5 +7,5 @@ I worked on Para Bank site to test some Fields to check those fields are working
 5. https://parabank.parasoft.com/
 6. Creation of Account Sign_up
 7. Log-in with username and pwd
-8. 10. Account Creation saving
+8. Account Creation saving
 9. Log-out
